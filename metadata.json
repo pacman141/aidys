@@ -1,0 +1,6 @@
+{
+  "name": "AIDYS",
+  "description": "Assistant IA spécialisé pour accompagner les parents d'enfants neuro-atypiques, avec une bibliothèque de ressources partagée.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
